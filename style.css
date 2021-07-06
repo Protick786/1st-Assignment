@@ -1,0 +1,78 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+#font-color{
+    color: orangered;
+    font-size: 50px;
+}
+#font-style{
+    font-family: 'Yellowtail', cursive;
+    font-size: 20px;
+    font-weight: 800px;
+}
+.Food-Order-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg,red, orange);
+    padding: 5px 40px;
+    border: 10px;
+    color: white;
+    font-weight: 800;
+    border-radius: 20px;
+}
+.first{
+    display: flex;
+    margin: 30px;
+}
+.half-width{
+    width: 80%;
+    padding: 7%;
+}
+.half-width img{
+    width: 70%;
+    padding: 5%;
+    height: 71%;  
+}
+.new-image{
+    width: 30%;
+    padding: 7%;
+}
+.Contact-me-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg,red, orange);
+    padding: 5px 40px;
+    border: 10px;
+    color: white;
+    font-weight: 800;
+    border-radius: 20px;
+}
+.About-Us{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+}
+.recipie{
+    text-align: center;
+    background-color: azure;
+}
+.title-1{
+    display: flex;
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px;
+    width: 70%;
+    padding: 7%;
+}
+footer p{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+.title-1{
+    background-color: aqua;
+}
+.back-ground{
+    background-color: whitesmoke;
+}
